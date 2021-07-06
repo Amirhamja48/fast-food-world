@@ -1,19 +1,41 @@
 body {
   font-family: "STIX Two Math", serif;
+  background-color: rgba(128, 128, 128, 0.308);
   
 }
+
 .hello-color {
   color: orange;
 }
+
 .half-width{
   width: 50%;
   
 }
+
 .half-width img{
-  width: 90%;
+  width: 80%;
   padding-left: 15px;
 }
+
 .frist-section{
   display: flex;
-  padding: px;
+  padding: 0 auto;
+  margin-bottom: 150px;
 }
+
+a{
+  text-decoration: none;
+  color: black;
+  font-weight: 900;
+  background-color: orange;
+  padding: 10px;
+  border: 5px solid black;
+  border-radius: 10px;
+}
+.top-banner{
+  background-image: url(banner/banner-t.jpg);
+}
+
+
+
